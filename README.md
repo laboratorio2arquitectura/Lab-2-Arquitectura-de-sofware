@@ -10,7 +10,7 @@
 
 # LAB2026V - Aplicación de Generación de Datos Aleatorios
 
-Aplicación desarrollada con Spring Boot que expone servicios REST para la generación de datos aleatorios. Este proyecto hace parte de un laboratorio de CI/CD e integra herramientas de calidad de código y automatización.
+Aplicación desarrollada con Spring Boot que expone servicios REST para la generación de datos aleatorios. Este proyecto hace parte de un laboratorio de CI/CD e integra herramientas de calidad de código, automatización y despliegue en la nube.
 
 ---
 
@@ -37,6 +37,7 @@ La aplicación permite:
 - JaCoCo
 - Coveralls
 - Snyk
+- Render (despliegue en la nube)
 
 ---
 
@@ -131,6 +132,20 @@ docker run -p 8080:8080 lab2026v:latest
 
 ---
 
+## Despliegue en Render
+
+La aplicación se encuentra desplegada en la plataforma Render, lo que permite su acceso público sin necesidad de ejecución local.
+
+Pasos generales de despliegue:
+
+1. Conectar el repositorio de GitHub a Render  
+2. Configurar el servicio web  
+3. Definir el comando de construcción (`mvn clean package`)  
+4. Definir el comando de inicio (`java -jar target/*.jar`)  
+5. Desplegar automáticamente  
+
+---
+
 ## Integración CI/CD
 
 El proyecto incluye:
@@ -165,6 +180,7 @@ Este laboratorio tiene como propósito:
 - Implementar un pipeline de integración continua
 - Evaluar la calidad del código
 - Automatizar pruebas
-- Desplegar aplicaciones usando contenedores
+- Desplegar aplicaciones usando contenedores y servicios en la nube
 
 ---
+
