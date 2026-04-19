@@ -1,5 +1,5 @@
 # lab22026v
-[![CI/CD Pipeline](https://github.com/diegobotia/lab22026v/actions/workflows/build.yml/badge.svg)](https://github.com/diegobotia/lab22026v/actions/workflows/build.yml)
+[![CI/CD Pipeline](https://github.com/Xion07/Lab-2-Arquitectura-de-sofware/actions/workflows/build.yml/badge.svg)](https://github.com/Xion07/Lab-2-Arquitectura-de-sofware/actions/workflows/build.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_lab22026v&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=diegobotia_lab22026v)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_lab22026v&metric=bugs)](https://sonarcloud.io/summary/new_code?id=diegobotia_lab22026v)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_lab22026v&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=diegobotia_lab22026v)
