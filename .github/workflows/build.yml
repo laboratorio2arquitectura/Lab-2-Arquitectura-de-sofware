@@ -113,7 +113,7 @@ jobs:
       - name: Build & push Docker image
         uses: mr-smithers-excellent/docker-build-push@v6
         with:
-          image: dbotiaudea/lab22026v
+          image: ronaldrodas/lab-2-arquitectura-de-sofware
           tags: latest
           registry: docker.io
           dockerfile: Dockerfile
