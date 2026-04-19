@@ -14,8 +14,8 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<sonar.projectKey>diegobotia_lab22026v</sonar.projectKey>
-		<sonar.organization>diegobotia</sonar.organization>
+		<sonar.projectKey>laboratorio2arquitectura_Lab-2-Arquitectura-de-sofware</sonar.projectKey>
+		<sonar.organization>laboratorio2arquitectura</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<dependencies>
