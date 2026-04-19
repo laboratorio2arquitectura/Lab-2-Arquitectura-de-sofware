@@ -1,11 +1,11 @@
 # lab22026v
-[![CI/CD Pipeline](https://github.com/Xion07/Lab-2-Arquitectura-de-sofware/actions/workflows/build.yml/badge.svg)](https://github.com/Xion07/Lab-2-Arquitectura-de-sofware/actions/workflows/build.yml)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_lab22026v&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=diegobotia_lab22026v)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_lab22026v&metric=bugs)](https://sonarcloud.io/summary/new_code?id=diegobotia_lab22026v)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_lab22026v&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=diegobotia_lab22026v)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_lab22026v&metric=coverage)](https://sonarcloud.io/summary/new_code?id=diegobotia_lab22026v)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_lab22026v&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=diegobotia_lab22026v)
-[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_lab22026v&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=diegobotia_lab22026v)
+[![CI/CD Pipeline](https://github.com/laboratorio2arquitectura/Lab-2-Arquitectura-de-sofware/actions/workflows/build.yml/badge.svg)](https://github.com/laboratorio2arquitectura/Lab-2-Arquitectura-de-sofware/actions/workflows/build.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=laboratorio2arquitectura_Lab-2-Arquitectura-de-sofware&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=laboratorio2arquitectura_Lab-2-Arquitectura-de-sofware)project=diegobotia_lab22026v&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=diegobotia_lab22026v)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=laboratorio2arquitectura_Lab-2-Arquitectura-de-sofware&metric=bugs)](https://sonarcloud.io/summary/new_code?id=laboratorio2arquitectura_Lab-2-Arquitectura-de-sofware)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=laboratorio2arquitectura_Lab-2-Arquitectura-de-sofware&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=laboratorio2arquitectura_Lab-2-Arquitectura-de-sofware)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=laboratorio2arquitectura_Lab-2-Arquitectura-de-sofware&metric=coverage)](https://sonarcloud.io/summary/new_code?id=laboratorio2arquitectura_Lab-2-Arquitectura-de-sofware)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=laboratorio2arquitectura_Lab-2-Arquitectura-de-sofware&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=laboratorio2arquitectura_Lab-2-Arquitectura-de-sofware)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=laboratorio2arquitectura_Lab-2-Arquitectura-de-sofware&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=laboratorio2arquitectura_Lab-2-Arquitectura-de-sofware)
 
 
 BIENVENIDO A MI APLICATION PARA GENERACION DE DATOS ALEATORIOS
