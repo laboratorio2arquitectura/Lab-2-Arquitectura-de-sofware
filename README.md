@@ -37,7 +37,7 @@ La aplicación permite:
 - JaCoCo
 - Coveralls
 - Snyk
-- Render (despliegue en la nube)
+- Render
 
 ---
 
@@ -132,20 +132,6 @@ docker run -p 8080:8080 lab2026v:latest
 
 ---
 
-## Despliegue en Render
-
-La aplicación se encuentra desplegada en la plataforma Render, lo que permite su acceso público sin necesidad de ejecución local.
-
-Pasos generales de despliegue:
-
-1. Conectar el repositorio de GitHub a Render  
-2. Configurar el servicio web  
-3. Definir el comando de construcción (`mvn clean package`)  
-4. Definir el comando de inicio (`java -jar target/*.jar`)  
-5. Desplegar automáticamente  
-
----
-
 ## Integración CI/CD
 
 El proyecto incluye:
@@ -173,6 +159,24 @@ sonar.projectKey=TU_PROJECT_KEY
 
 ---
 
+
+## Despliegue en Render
+
+El despliegue de la aplicación se realiza utilizando la imagen Docker previamente construida.
+
+Proceso seguido:
+
+1. Construcción de la imagen Docker del proyecto  
+2. Publicación de la imagen en un repositorio (Docker Hub u otro)  
+3. Creación de un servicio en Render  
+4. Configuración del servicio para usar la imagen Docker  
+5. Exposición del puerto 8080  
+6. Despliegue automático de la aplicación  
+
+Esto permite acceder a la aplicación desde una URL pública sin necesidad de ejecución local.
+
+---
+
 ## Objetivo del proyecto
 
 Este laboratorio tiene como propósito:
@@ -183,4 +187,3 @@ Este laboratorio tiene como propósito:
 - Desplegar aplicaciones usando contenedores y servicios en la nube
 
 ---
-
